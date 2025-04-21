@@ -1,13 +1,13 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "AI Powered Recipe Retrieval System: A Kaggle Capstone Project"
+author: "Arvind Shankar"
+description: "In today’s fast-paced world, finding the perfect recipe can be overwhelming. With countless cuisines, ingredients, and cooking times to consider, an AI-powered solution can simplify the search." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
+email: "arvindshankar1984@gmail.com"
 twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+github_username: "arvindps1984"
+linkedin_username: "arvindpshankar"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
