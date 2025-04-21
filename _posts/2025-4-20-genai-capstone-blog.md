@@ -1,5 +1,3 @@
-AI-Powered Recipe Retrieval System: A Kaggle Capstone Project
-
 🍳 Introduction
 In today’s fast-paced world, finding the perfect recipe can be overwhelming. With countless cuisines, ingredients, and cooking times to consider, an AI-powered solution can simplify the search.
 This [Kaggle notebook] (https://www.kaggle.com/code/arvindshankar/ai-recipe-retrieval-system-2025-q1-capstone/notebook?scriptVersionId=235125966) demonstrates how Google’s Gemini AI can intelligently retrieve recipes from a structured dataset, making culinary exploration effortless.
